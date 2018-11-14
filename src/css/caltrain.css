@@ -1,0 +1,55 @@
+html{
+	background: #4f2828;
+}
+
+
+body{
+	color: #4f2828;	
+}
+
+.titlebar{	
+	background: rgb(238,238,238);
+}
+
+.in_title header{
+	width: 100%;
+	/*height: 300px;*/	
+	font-size: 12vw;
+	line-height: 80%;
+	bottom: 40px;
+}
+.in_title header span{
+	width: 100%;
+	/*height: 300px;*/
+	display: inline-block;
+	font-size: 8vw;	
+}
+.in_title #next{
+	color: #ed8d61;	
+}
+
+#visit{
+	color:#ed8d61;
+}
+.orig_station{	
+	background: #ed8d61;
+	border: 1px solid #ed8d61;
+	
+}
+.dest_station{
+	color:#ed8d61;
+	background: #4f2828;	
+	border: 1px solid #ed8d61;	
+}
+#btn_test{
+	color: #4f2828;
+}
+#btn_test:hover{
+	background-color: #4f2828;
+}
+
+
+.trip_result{
+	
+	background: #4f2828;
+}
